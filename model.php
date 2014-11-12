@@ -1,6 +1,6 @@
 <?php
 
-require('/home/useful/secure/worldpass.php'); // secure pass storage
+require('/home/useful/dmgig.com/worldpass.php'); // secure pass storage
 
 /**
  * Data Model
